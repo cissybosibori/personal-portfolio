@@ -1,4 +1,5 @@
 # Silvya B - Front-End Engineer Portfolio
+https://silvyabosibori.netlify.app/
 
 A sophisticated and elegant portfolio website showcasing my work as a Front-End Engineer. The design features a feminine yet professional aesthetic with smooth animations and modern interactions.
 
@@ -26,3 +27,4 @@ A sophisticated and elegant portfolio website showcasing my work as a Front-End 
 - Secondary Color: #F8E5E5 (Blush Pink)
 - Accent Color: #D4A373 (Muted Gold)
 - Text Color: #2C3E50 (Deep Navy)
+  
